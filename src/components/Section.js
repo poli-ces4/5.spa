@@ -49,11 +49,11 @@ const Section = ({
                     {buttonLabel}
                   </Button>
                 </Link>
-                <div className="col">
-                  <div className="home__hero-img-wrapper">
-                    <img className="home__hero-img" alt={alt} src={img} />
-                  </div>
-                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="home__hero-img-wrapper">
+                <img className="home__hero-img" alt={alt} src={img} />
               </div>
             </div>
           </div>

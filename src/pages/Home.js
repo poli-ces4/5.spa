@@ -1,11 +1,13 @@
 import Section from "../components/Section";
-import { series, tv } from "../data/Data";
+import { infantil, peliculas, series, tv } from "../data/Data";
 
 const Home = () => {
   return (
     <>
       <Section {...tv} />
       <Section {...series} />
+      <Section {...peliculas} />
+      <Section {...infantil} />
     </>
   );
 };
