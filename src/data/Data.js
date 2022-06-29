@@ -4,8 +4,8 @@ export const tv = {
   description:
     "Ve en smart TV, PlayStation, Xbox, Chromecast, Apple TV, reproductores de Blu-ray y más.",
   buttonLabel: "Comenzar",
-  img: "",
-  alt: "",
+  img: "images/img_tv.svg",
+  alt: "TV",
   imgStart: "Start",
   lighBackground: "true",
   lighHeadText: "false",
