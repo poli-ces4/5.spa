@@ -1,13 +1,12 @@
 import Section from "../components/Section";
-import { series, tv } from "../data/Data";
+import { series } from "../data/Data";
 
-const Home = () => {
+const Series = () => {
   return (
     <>
-      <Section {...tv} />
       <Section {...series} />
     </>
   );
 };
 
-export default Home;
+export default Series;
