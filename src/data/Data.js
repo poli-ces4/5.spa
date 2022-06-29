@@ -6,7 +6,7 @@ export const tv = {
   buttonLabel: "Comenzar",
   img: "images/img_tv.svg",
   alt: "TV",
-  imgStart: "Start",
+  imgStart: "start",
   lighBackground: "true",
   lighHeadText: "false",
   lighDescription: "false",
